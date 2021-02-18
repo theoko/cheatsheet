@@ -1,5 +1,12 @@
 # super-duper-cheatsheet
 
+## // virtualenv boilerplate
+```
+virtualenv -p python3 /tmp/[PACKAGE_NAME]
+. /tmp/[PACKAGE_NAME]/bin/activate
+pip install [PACKAGE_NAME]
+```
+
 ## // delete branch locally
 ```git branch -d localBranchName```
 
