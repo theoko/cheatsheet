@@ -5,3 +5,5 @@
 
 ## // delete branch remotely
 ```git push origin --delete remoteBranchName```
+
+## // current VPS host: https://www.vultr.com
