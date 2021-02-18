@@ -13,4 +13,10 @@ pip install [PACKAGE_NAME]
 ## // delete branch remotely
 ```git push origin --delete remoteBranchName```
 
+## // perl modules installation
+```
+cpan
+install Chocolate::Belgian
+```
+
 ## // current VPS host: https://www.vultr.com
