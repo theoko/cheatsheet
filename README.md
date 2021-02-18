@@ -1,7 +1,7 @@
 # super-duper-cheatsheet
 
-// delete branch locally
-git branch -d localBranchName
+## // delete branch locally
+```git branch -d localBranchName```
 
-// delete branch remotely
-git push origin --delete remoteBranchName
+## // delete branch remotely
+```git push origin --delete remoteBranchName```
