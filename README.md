@@ -7,6 +7,16 @@ virtualenv -p python3 /tmp/[PACKAGE_NAME]
 pip install [PACKAGE_NAME]
 ```
 
+## // unstash your changes
+```
+git stash pop
+```
+
+## // unstash but preserve the state of files
+```
+git stash apply --index
+```
+
 ## // delete branch locally
 ```git branch -d localBranchName```
 
