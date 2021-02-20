@@ -1,5 +1,10 @@
 # super-duper-cheatsheet
 
+## // scrapy run spider
+```
+scrapy runspider myspider.py
+```
+
 ## // virtualenv boilerplate
 ```
 virtualenv -p python3 /tmp/[PACKAGE_NAME]
