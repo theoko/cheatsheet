@@ -1,4 +1,4 @@
-# super-duper-cheatsheet
+# cheatsheet
 
 ## // scrapy run spider
 ```
